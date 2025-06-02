@@ -1,0 +1,6 @@
+requests
+pandas
+python-dotenv
+scikit-learn
+matplotlib
+pyod
